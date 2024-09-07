@@ -16,7 +16,7 @@ This repository contains reusable code snippets and basic project setups using *
    - Commonly used utilities for logging, error handling, authentication, and more.
    - Modular middleware for tasks like authentication, request validation, and session management.
 
-## **Future Projects**:
+4. **Future Projects**:
    - Placeholder for upcoming reusable modules and features, including authentication templates, pagination, and API services.
 
 
