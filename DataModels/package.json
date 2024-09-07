@@ -1,0 +1,15 @@
+{
+  "name": "datamodels",
+  "version": "1.0.0",
+  "description": "All kind of data models practice will exist here",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Muhammad Awais",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.6.1"
+  }
+}
